@@ -1,0 +1,8 @@
+Styles|Label:styleLabel|Range:styleRange|RangeFill:styleRangeFill|Checkbox:styleCheckbox|Fill:styleCheckboxFill|RangeInput:styleRangeInput
+Group|Options
+	Range|multiplier|0.25,4,0.25|Scale:Size of the clock
+	Checkbox|Bold|Time Bold:The text style are bold
+	Range|textshadow|1,255,1|Text Shadow:Make more "darker" the text shadow
+	Range|boxopacity|1,120,1|Box Opacity:The min value make "invisible" the box
+	Select|dateformat|short,short day,short month,large, ES_large|Date Format:How the date displays [Excluding Compact Clock]
+	Checkbox|upperdate|Upper Text: Displays the date in UPPER/LOWER case [Excluding Compact Clock]
